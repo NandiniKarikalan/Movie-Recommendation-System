@@ -26,7 +26,7 @@ A Python-based interactive movie explorer that recommends similar titles or list
 
 ## 🚀 Set-Up
 
-1. Install dependencies:
+1. Install dependencies:<br />
    bash
    - pip install pandas scikit-learn    # To install Python libraries
    - python main.py                     # To run the main file
@@ -47,12 +47,12 @@ MovieExplorerSystem
 
 ## 🧪 Sample Interaction
 
-🎬 Welcome to the Movie Recommendation System!
-➡️ Type 'movie title' to find similar movies
-➡️ Type 'year of launch' to list movies by year
-Your choice: movie title
+🎬 Welcome to the Movie Recommendation System!<br />
+➡️ Type 'movie title' to find similar movies<br />
+➡️ Type 'year of launch' to list movies by year<br />
+Your choice: movie title<br />
 
-🔎 Enter a movie title: Titanic
+🔎 Enter a movie title: Titanic<br />
 
 🎥 Recommendations for 'Titanic':
 1. Titanic II
