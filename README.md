@@ -38,7 +38,7 @@ A Python-based interactive movie explorer that recommends similar titles or list
 
 ## 📂 Project Structure
 
-MovieExplorerSystem/
+MovieExplorerSystem/n
 ├── main.py              # Core Python script for movie exploration
 ├── movie_titles.csv     # Dataset file with no headers (id, release year, name)
 ├── README.md            # Project documentation and instructions
