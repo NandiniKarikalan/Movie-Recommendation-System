@@ -60,3 +60,16 @@ Your choice: movie title<br />
 3. The Perfect Storm
 4. Ghost Ship
 5. The Abyss
+
+--
+
+🧑‍💻 Creator
+
+Developed by Nandini Karikalan
+
+--
+
+📄 License
+
+This project is open-source under the MIT License.
+Feel free to fork, improve, and share!
