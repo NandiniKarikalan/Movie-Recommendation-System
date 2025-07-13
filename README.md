@@ -36,6 +36,21 @@ A Python-based interactive movie explorer that recommends similar titles or list
 
 ---
 
+## 🧰 Technologies Used
+
+- Programming Language: Python 3.x
+- Data Processing: pandas
+- Machine Learning: scikit-learn (TF-IDF + cosine similarity)
+- CLI Interaction: input() + print() for command-line interactivity
+- File Handling: CSV (Comma-Separated Values)
+- Text Similarity: TF-IDF vectorization + cosine similarity
+- Memory Management: Sampling with .head() to optimize performance
+- Error Handling: Try-except blocks for safe user inputs and lookups
+- Dataset Format: Headerless CSV with columns: id, release year, name
+- Editor: Visual Studio Code
+
+---
+
 ## 📂 Project Structure
 
 MovieExplorerSystem
