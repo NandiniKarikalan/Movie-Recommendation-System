@@ -27,21 +27,21 @@ A Python-based interactive movie explorer that recommends similar titles or list
 ## 🚀 Set-Up
 
 1. Install dependencies:
-   ```bash
+   bash
    pip install pandas scikit-learn    # To install Python libraries
    python main.py                     # To run the main file
-`
-2. Dataset:
+   
+3. Dataset:
    Kaggle: https://www.kaggle.com/datasets/ksavleen/movie-recommendation-dataset?select=movie_titles.csv
 
 ---
 
 ## 📂 Project Structure
 
-MovieExplorerSystem/n
-├── main.py              # Core Python script for movie exploration
-├── movie_titles.csv     # Dataset file with no headers (id, release year, name)
-├── README.md            # Project documentation and instructions
+MovieExplorerSystem
+- main.py              # Core Python script for movie exploration
+- movie_titles.csv     # Dataset file with no headers (id, release year, name)
+- README.md            # Project documentation and instructions
    
 ---
 
