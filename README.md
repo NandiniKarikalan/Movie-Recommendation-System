@@ -80,11 +80,10 @@ Your choice: movie title<br />
 
 🧑‍💻 Creator
 
-Developed by Nandini Karikalan
+Developed by Nandini Karikalan on 13.07.2025.
 
 ---
 
 📄 License
 
-This project is open-source under the MIT License.
-Feel free to fork, improve, and share!
+This project is open-source under the MIT License. Feel free to fork, improve, and share!
