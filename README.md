@@ -2,9 +2,7 @@
 
 A Python-based interactive movie explorer that recommends similar titles or lists movies by their release year. Built with *TF-IDF* and *cosine similarity*. This content-based system allows users to search either by a specific movie name or filter results by year.
 
----
-
-## 🔧 Features
+🔧 Features
 
 - 🔎 Recommends similar movies based on title (using TF-IDF)
 - 📅 Lists movies released in a given year (up to 50 max)
@@ -12,9 +10,7 @@ A Python-based interactive movie explorer that recommends similar titles or list
 - 📦 Lightweight and memory-efficient setup
 - 🤖 Fully command-line based interaction (easy to upgrade to GUI or web later)
 
----
-
-## 🧠 How It Works
+🧠 How It Works
 
 1. Loads a movie dataset with IDs, titles, and release years.
 2. Cleans the data and assigns headers (for headerless CSV).
@@ -22,21 +18,17 @@ A Python-based interactive movie explorer that recommends similar titles or list
 4. Computes cosine similarity to find movies with similar title vectors.
 5. Accepts user input to operate in either "title" mode or "year" mode.
 
----
-
-## 🚀 Set-Up
+🚀 Set-Up
 
 1. Install dependencies:<br />
    bash
    - pip install pandas scikit-learn &nbsp; # To install Python libraries
    - python main.py &nbsp; # To run the main file
    
-3. Dataset:
+3. Dataset:  
    Kaggle: https://www.kaggle.com/datasets/ksavleen/movie-recommendation-dataset?select=movie_titles.csv
 
----
-
-## 🧰 Technologies Used
+🧰 Technologies Used
 
 - Programming Language: Python 3.x
 - Data Processing: pandas
@@ -49,18 +41,14 @@ A Python-based interactive movie explorer that recommends similar titles or list
 - Dataset Format: Headerless CSV with columns: id, release year, name
 - Editor: Visual Studio Code
 
----
-
-## 📂 Project Structure
+📂 Project Structure
 
 MovieExplorerSystem
 - main.py &nbsp; # Core Python script for movie exploration
 - movie_titles.csv &nbsp; # Dataset file with no headers (id, release year, name)
 - README.md &nbsp; # Project documentation and instructions
-   
----
 
-## 🧪 Sample Interaction
+🧪 Sample Interaction
 
 🎬 Welcome to the Movie Recommendation System!<br />
 ➡️ Type 'movie title' to find similar movies<br />
@@ -76,14 +64,5 @@ Your choice: movie title<br />
 4. Ghost Ship
 5. The Abyss
 
----
-
-🧑‍💻 Creator
-
-Developed by Nandini Karikalan on 13.07.2025.
-
----
-
-📄 License
-
-This project is open-source under the MIT License. Feel free to fork, improve, and share!
+🧑‍💻 Author  
+Created by Nandini Karikalan on 13.07.2025.
